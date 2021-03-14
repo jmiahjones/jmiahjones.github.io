@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Who am I? on Jeremiah Jones</title>
-    <link>jmiahjones.github.io/</link>
+    <link>/</link>
     <description>Recent content in Who am I? on Jeremiah Jones</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="jmiahjones.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who am I?</title>
-      <link>jmiahjones.github.io/sections/who-am-i/</link>
+      <link>/sections/who-am-i/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>jmiahjones.github.io/sections/who-am-i/</guid>
+      <guid>/sections/who-am-i/</guid>
       <description>Hello, and welcome to my site!
 I&amp;rsquo;m a Statistician and Graduate Research Assistant at the University of Rochester, studying to complete my PhD under Drs. Ashkan Ertefaie and Robert Strawderman.
 I have several research interests, mostly focusing on causal inference problems:
@@ -19,19 +19,19 @@ I have several research interests, mostly focusing on causal inference problems:
     
     <item>
       <title>What else?</title>
-      <link>jmiahjones.github.io/sections/more-about-me/</link>
+      <link>/sections/more-about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>jmiahjones.github.io/sections/more-about-me/</guid>
+      <guid>/sections/more-about-me/</guid>
       <description>I am also a husband, classical singer, amateur guitarist, chronic tinkerer, and a dog owner!</description>
     </item>
     
     <item>
       <title>Introducing Schubert</title>
-      <link>jmiahjones.github.io/my-dog/</link>
+      <link>/my-dog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>jmiahjones.github.io/my-dog/</guid>
+      <guid>/my-dog/</guid>
       <description>This is my dog, Schubert! My wife and I named him after one of our favorite composers.
 Nicknames: &amp;ldquo;Schub&amp;rdquo; and &amp;ldquo;Schuby-doo&amp;rdquo;
 Favorite toy: Allie the Alligator
@@ -41,19 +41,19 @@ Favorite time: Toss-up between playtime and cuddle time
     
     <item>
       <title>Open Source Advocacy</title>
-      <link>jmiahjones.github.io/open-source/</link>
+      <link>/open-source/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>jmiahjones.github.io/open-source/</guid>
+      <guid>/open-source/</guid>
       <description>What is open source software? It&amp;rsquo;s free! Not necessarily free as in &amp;ldquo;free lunch,&amp;rdquo; but &amp;ldquo;free as in freedom&amp;rdquo;&amp;mdash;freedom to use software without restriction, tweak the code at will, and liberty from annoying features just &amp;ldquo;because the developer said so.&amp;rdquo; Open source software allows creativity and innovation by allowing tinkerers, developers, and users to decide what they want from their software. I&amp;rsquo;ve been using open-source products and tools for years. My education and professional work has been empowered by R / Rstudio, Ubuntu, and Python.</description>
     </item>
     
     <item>
       <title>Guitar</title>
-      <link>jmiahjones.github.io/guitar-dsp/</link>
+      <link>/guitar-dsp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>jmiahjones.github.io/guitar-dsp/</guid>
+      <guid>/guitar-dsp/</guid>
       <description>I am a very spirited (read: not incredibly talented) guitar player. I first picked up the proverbial axe in the 8th grade, and began a lifelong study of music with its help.
 I&amp;rsquo;ve always been fascinated by the sonic effects achieved with the electric guitar. Arguably, entire sub-genres of music have evolved around certain achievable sounds with the electric guitar. From the crystalline sounds of Wes Montgomery, the gritty sounds of BB King, the cranked tones of 70&amp;rsquo;s-era Rush, to the hardly-recognizable sounds of modern metal; all these sounds are achieved by the processed sounds of magnets.</description>
     </item>
