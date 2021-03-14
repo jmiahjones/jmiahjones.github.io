@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on Jeremiah Jones</title>
+    <link>jmiahjones.github.io/sections/</link>
+    <description>Recent content in Sections on Jeremiah Jones</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="jmiahjones.github.io/sections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who am I?</title>
+      <link>jmiahjones.github.io/sections/who-am-i/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>jmiahjones.github.io/sections/who-am-i/</guid>
+      <description>Hello, and welcome to my site!
+I&amp;rsquo;m a Statistician and Graduate Research Assistant at the University of Rochester, studying to complete my PhD under Drs. Ashkan Ertefaie and Robert Strawderman.
+I have several research interests, mostly focusing on causal inference problems:
+ Causal mediation analysis Variable selection methods in causal Inference Post-selection inference techniques Personalized medicine through indivualized treatment strategies  For more information, check out my LinkedIn!</description>
+    </item>
+    
+    <item>
+      <title>What else?</title>
+      <link>jmiahjones.github.io/sections/more-about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>jmiahjones.github.io/sections/more-about-me/</guid>
+      <description>I am also a husband, classical singer, amateur guitarist, chronic tinkerer, and a dog owner!</description>
+    </item>
+    
+  </channel>
+</rss>
