@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on Jeremiah Jones</title>
+    <link>/tags/music/</link>
+    <description>Recent content in Music on Jeremiah Jones</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2022 Jeremiah Jones
+</copyright>
+    <lastBuildDate>Sun, 14 Mar 2021 19:14:17 -0400</lastBuildDate><atom:link href="/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schubert</title>
+      <link>/gumbo/schubert/</link>
+      <pubDate>Sun, 14 Mar 2021 19:14:17 -0400</pubDate>
+      
+      <guid>/gumbo/schubert/</guid>
+      <description>This is my dog, Schubert! My wife and I named him after one of our favorite composers.
+Nicknames: &amp;ldquo;Schub&amp;rdquo; and &amp;ldquo;Schuby-doo&amp;rdquo;
+Favorite toy: Allie the Alligator
+Favorite time: Toss-up between playtime and cuddle time
+ I think he appreciates classical music.   --</description>
+    </item>
+    
+    <item>
+      <title>Guitar</title>
+      <link>/gumbo/guitar/</link>
+      <pubDate>Sun, 14 Mar 2021 18:43:21 -0400</pubDate>
+      
+      <guid>/gumbo/guitar/</guid>
+      <description>I am a very spirited, if not incredibly talented, guitar player. I first picked up the proverbial axe in the 8th grade, and began a lifelong study of music with its help.
+I&amp;rsquo;ve always been fascinated by the sonic effects achieved with the electric guitar. Arguably, entire sub-genres of music have evolved around certain achievable sounds with the electric guitar. From the crystalline sounds of Wes Montgomery, the gritty sounds of BB King, the cranked tones of 70&amp;rsquo;s-era Rush, to the hardly-recognizable sounds of modern metal; all these sounds are achieved by the processed sounds of magnets.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FLOSS on Jeremiah Jones</title>
+    <link>/tags/floss/</link>
+    <description>Recent content in FLOSS on Jeremiah Jones</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2022 Jeremiah Jones
+</copyright>
+    <lastBuildDate>Sun, 14 Mar 2021 18:43:21 -0400</lastBuildDate><atom:link href="/tags/floss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Source</title>
+      <link>/gumbo/open-source/</link>
+      <pubDate>Sun, 14 Mar 2021 18:43:21 -0400</pubDate>
+      
+      <guid>/gumbo/open-source/</guid>
+      <description>What is open source software? It&amp;rsquo;s free! Not necessarily free as in &amp;ldquo;free lunch,&amp;rdquo; but &amp;ldquo;free as in freedom&amp;rdquo;&amp;mdash;freedom to use software without restriction, tweak the code at will, and liberty from annoying features just &amp;ldquo;because the developer said so.&amp;rdquo; Open source software allows creativity and innovation by allowing tinkerers, developers, and users to decide what they want from their software. I&amp;rsquo;ve been using open-source products and tools for years. My education and professional work has been empowered by R / Rstudio, Ubuntu, and Python.</description>
+    </item>
+    
+  </channel>
+</rss>
