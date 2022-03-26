@@ -8,15 +8,14 @@
     <language>en</language>
     <copyright>&amp;copy; 2022 Jeremiah Jones
 </copyright>
-    <lastBuildDate>Sun, 13 Feb 2022 21:52:20 -0500</lastBuildDate><atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Mar 2022 12:51:31 -0500</lastBuildDate><atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jeremiah Jones</title>
       <link>/authors/jeremiah-jones/</link>
-      <pubDate>Sun, 13 Feb 2022 21:52:20 -0500</pubDate>
+      <pubDate>Sat, 26 Mar 2022 12:51:31 -0500</pubDate>
       
       <guid>/authors/jeremiah-jones/</guid>
       <description>Hello, and welcome to my site! I&amp;rsquo;m a Statistician and Graduate Research Assistant at the University of Rochester, studying to complete my PhD under Drs. Ashkan Ertefaie and Robert L. Strawderman.
-I have several research interests, mostly focusing on causal inference problems:
 My statistical research focuses on the intersection of causal inference with high dimensionality, selection, and nonregular inference problems. Some of my interests are:
  Causal mediation analysis Variable selection methods in causal Inference settings Post-selection inference techniques Personalized medicine through dynamic treatment regimes  </description>
     </item>
