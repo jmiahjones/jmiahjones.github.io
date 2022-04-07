@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jeremiah Jones</title>
-    <link>/tags/</link>
+    <link>https://www.jmiahjones.com/tags/</link>
     <description>Recent content in Tags on Jeremiah Jones</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2022 Jeremiah Jones
 </copyright>
-    <lastBuildDate>Sat, 26 Mar 2022 12:51:31 -0500</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Mar 2022 12:51:31 -0500</lastBuildDate><atom:link href="https://www.jmiahjones.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Awards</title>
-      <link>/tags/awards/</link>
+      <link>https://www.jmiahjones.com/tags/awards/</link>
       <pubDate>Sat, 26 Mar 2022 12:51:31 -0500</pubDate>
       
-      <guid>/tags/awards/</guid>
+      <guid>https://www.jmiahjones.com/tags/awards/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Website</title>
-      <link>/tags/website/</link>
+      <link>https://www.jmiahjones.com/tags/website/</link>
       <pubDate>Sun, 13 Feb 2022 12:09:06 -0500</pubDate>
       
-      <guid>/tags/website/</guid>
+      <guid>https://www.jmiahjones.com/tags/website/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>/tags/music/</link>
+      <link>https://www.jmiahjones.com/tags/music/</link>
       <pubDate>Sun, 14 Mar 2021 19:14:17 -0400</pubDate>
       
-      <guid>/tags/music/</guid>
+      <guid>https://www.jmiahjones.com/tags/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Schubert</title>
-      <link>/tags/schubert/</link>
+      <link>https://www.jmiahjones.com/tags/schubert/</link>
       <pubDate>Sun, 14 Mar 2021 19:14:17 -0400</pubDate>
       
-      <guid>/tags/schubert/</guid>
+      <guid>https://www.jmiahjones.com/tags/schubert/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FLOSS</title>
-      <link>/tags/floss/</link>
+      <link>https://www.jmiahjones.com/tags/floss/</link>
       <pubDate>Sun, 14 Mar 2021 18:43:21 -0400</pubDate>
       
-      <guid>/tags/floss/</guid>
+      <guid>https://www.jmiahjones.com/tags/floss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine learning</title>
-      <link>/tags/machine-learning/</link>
+      <link>https://www.jmiahjones.com/tags/machine-learning/</link>
       <pubDate>Sun, 14 Mar 2021 18:43:21 -0400</pubDate>
       
-      <guid>/tags/machine-learning/</guid>
+      <guid>https://www.jmiahjones.com/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Source</title>
-      <link>/tags/open-source/</link>
+      <link>https://www.jmiahjones.com/tags/open-source/</link>
       <pubDate>Sun, 14 Mar 2021 18:43:21 -0400</pubDate>
       
-      <guid>/tags/open-source/</guid>
+      <guid>https://www.jmiahjones.com/tags/open-source/</guid>
       <description></description>
     </item>
     

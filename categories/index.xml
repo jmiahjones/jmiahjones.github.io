@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jeremiah Jones</title>
-    <link>/categories/</link>
+    <link>https://www.jmiahjones.com/categories/</link>
     <description>Recent content in Categories on Jeremiah Jones</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2022 Jeremiah Jones
 </copyright>
-    <lastBuildDate>Sat, 26 Mar 2022 12:51:31 -0500</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Mar 2022 12:51:31 -0500</lastBuildDate><atom:link href="https://www.jmiahjones.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Announcements</title>
-      <link>/categories/announcements/</link>
+      <link>https://www.jmiahjones.com/categories/announcements/</link>
       <pubDate>Sat, 26 Mar 2022 12:51:31 -0500</pubDate>
       
-      <guid>/categories/announcements/</guid>
+      <guid>https://www.jmiahjones.com/categories/announcements/</guid>
       <description></description>
     </item>
     
