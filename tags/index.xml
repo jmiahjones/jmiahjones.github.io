@@ -4,73 +4,10 @@
     <title>Tags on Jeremiah Jones</title>
     <link>https://www.jmiahjones.com/tags/</link>
     <description>Recent content in Tags on Jeremiah Jones</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2022 Jeremiah Jones
+    <copyright>&amp;copy; 2024 Jeremiah Jones
 </copyright>
-    <lastBuildDate>Sat, 26 Mar 2022 12:51:31 -0500</lastBuildDate><atom:link href="https://www.jmiahjones.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Awards</title>
-      <link>https://www.jmiahjones.com/tags/awards/</link>
-      <pubDate>Sat, 26 Mar 2022 12:51:31 -0500</pubDate>
-      
-      <guid>https://www.jmiahjones.com/tags/awards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Website</title>
-      <link>https://www.jmiahjones.com/tags/website/</link>
-      <pubDate>Sun, 13 Feb 2022 12:09:06 -0500</pubDate>
-      
-      <guid>https://www.jmiahjones.com/tags/website/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Music</title>
-      <link>https://www.jmiahjones.com/tags/music/</link>
-      <pubDate>Sun, 14 Mar 2021 19:14:17 -0400</pubDate>
-      
-      <guid>https://www.jmiahjones.com/tags/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Schubert</title>
-      <link>https://www.jmiahjones.com/tags/schubert/</link>
-      <pubDate>Sun, 14 Mar 2021 19:14:17 -0400</pubDate>
-      
-      <guid>https://www.jmiahjones.com/tags/schubert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FLOSS</title>
-      <link>https://www.jmiahjones.com/tags/floss/</link>
-      <pubDate>Sun, 14 Mar 2021 18:43:21 -0400</pubDate>
-      
-      <guid>https://www.jmiahjones.com/tags/floss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine learning</title>
-      <link>https://www.jmiahjones.com/tags/machine-learning/</link>
-      <pubDate>Sun, 14 Mar 2021 18:43:21 -0400</pubDate>
-      
-      <guid>https://www.jmiahjones.com/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Open Source</title>
-      <link>https://www.jmiahjones.com/tags/open-source/</link>
-      <pubDate>Sun, 14 Mar 2021 18:43:21 -0400</pubDate>
-      
-      <guid>https://www.jmiahjones.com/tags/open-source/</guid>
-      <description></description>
-    </item>
-    
+    <atom:link href="https://www.jmiahjones.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
